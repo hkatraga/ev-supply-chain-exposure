@@ -1,0 +1,293 @@
+Mineral,Stage,Country,Year,Value_kt
+Copper,Mining,Chile,2024,5476
+Copper,Mining,Chile,2030,5505
+Copper,Mining,Chile,2035,4730
+Copper,Mining,Chile,2040,4164
+Copper,Refining,China,2024,11860
+Copper,Refining,China,2030,15688
+Copper,Refining,China,2035,15688
+Copper,Refining,China,2040,15688
+Copper,Mining,Democratic Republic of Congo,2024,2876
+Copper,Mining,Democratic Republic of Congo,2030,3578
+Copper,Mining,Democratic Republic of Congo,2035,2662
+Copper,Mining,Democratic Republic of Congo,2040,2156
+Copper,Refining,Russia,2024,995
+Copper,Refining,Russia,2030,1110
+Copper,Refining,Russia,2035,1110
+Copper,Refining,Russia,2040,1105
+Copper,Mining,Peru,2024,2631
+Copper,Mining,Peru,2030,2425
+Copper,Mining,Peru,2035,2117
+Copper,Mining,Peru,2040,1138
+Copper,Refining,Chile,2024,1966
+Copper,Refining,Chile,2030,1867
+Copper,Refining,Chile,2035,1466
+Copper,Refining,Chile,2040,1294
+Copper,Mining,China,2024,1815
+Copper,Mining,China,2030,1962
+Copper,Mining,China,2035,1870
+Copper,Mining,China,2040,1676
+Copper,Refining,Japan,2024,1578
+Copper,Refining,Japan,2030,1614
+Copper,Refining,Japan,2035,1614
+Copper,Refining,Japan,2040,1614
+Copper,Mining,Russia,2024,1101
+Copper,Mining,Russia,2030,1194
+Copper,Mining,Russia,2035,1079
+Copper,Mining,Russia,2040,998
+Copper,Refining,India,2024,655
+Copper,Refining,India,2030,1060
+Copper,Refining,India,2035,1060
+Copper,Refining,India,2040,1060
+Copper,Mining,United States,2024,1138
+Copper,Mining,United States,2030,1142
+Copper,Mining,United States,2035,833
+Copper,Mining,United States,2040,675
+Copper,Mining,Rest of world,2024,7757
+Copper,Mining,Rest of world,2030,8465
+Copper,Mining,Rest of world,2035,6503
+Copper,Mining,Rest of world,2040,5029
+Copper,Refining,Rest of world,2024,9890
+Copper,Refining,Rest of world,2030,12327
+Copper,Refining,Rest of world,2035,10975
+Copper,Refining,Rest of world,2040,10382
+Cobalt,Mining,Democratic Republic of Congo,2024,181.79631578947365
+Cobalt,Mining,Democratic Republic of Congo,2030,199.3860082951715
+Cobalt,Mining,Democratic Republic of Congo,2035,145.04278936674288
+Cobalt,Mining,Democratic Republic of Congo,2040,107.61473684210527
+Cobalt,Refining,China,2024,196.1433565869552
+Cobalt,Refining,China,2030,251.70169564264117
+Cobalt,Refining,China,2035,254.45775939294785
+Cobalt,Refining,China,2040,254.45775939294785
+Cobalt,Mining,Indonesia,2024,33.23049476933489
+Cobalt,Mining,Indonesia,2030,58.35878651008277
+Cobalt,Mining,Indonesia,2035,58.91434206563832
+Cobalt,Mining,Indonesia,2040,58.91434206563832
+Cobalt,Refining,Finland,2024,20.119722414513216
+Cobalt,Refining,Finland,2030,19.852262985153157
+Cobalt,Refining,Finland,2035,19.662262985153152
+Cobalt,Refining,Finland,2040,19.662262985153152
+Cobalt,Mining,Russia,2024,6.239744996016705
+Cobalt,Mining,Russia,2030,8.249703947837242
+Cobalt,Mining,Russia,2035,8.249703947837242
+Cobalt,Mining,Russia,2040,8.249703947837242
+Cobalt,Refining,Japan,2024,5.648685238955214
+Cobalt,Refining,Japan,2030,5.953685238955214
+Cobalt,Refining,Japan,2035,5.953685238955214
+Cobalt,Refining,Japan,2040,5.953685238955214
+Cobalt,Mining,Australia,2024,6.379434978239528
+Cobalt,Mining,Australia,2030,6.382400296219043
+Cobalt,Mining,Australia,2035,5.34636891445783
+Cobalt,Mining,Australia,2040,5.08796891445783
+Cobalt,Refining,Indonesia,2024,2.874
+Cobalt,Refining,Indonesia,2030,10.34565
+Cobalt,Refining,Indonesia,2035,10.66485
+Cobalt,Refining,Indonesia,2040,10.66485
+Cobalt,Refining,Canada,2024,1.7536888157727089
+Cobalt,Refining,Canada,2030,4.103688815772709
+Cobalt,Refining,Canada,2035,6.98565
+Cobalt,Refining,Canada,2040,6.98565
+Cobalt,Mining,Rest of world,2024,45.69111342444714
+Cobalt,Mining,Rest of world,2030,48.27230831049184
+Cobalt,Mining,Rest of world,2035,39.24114277778892
+Cobalt,Mining,Rest of world,2040,34.39682366014182
+Cobalt,Refining,Rest of world,2024,23.610285238955242
+Cobalt,Refining,Rest of world,2030,33.22973065589821
+Cobalt,Refining,Rest of world,2035,35.669766624867464
+Cobalt,Refining,Rest of world,2040,35.29176662486748
+Lithium,Mining,Australia,2024,89.969451315
+Lithium,Mining,Australia,2030,123.5866246299
+Lithium,Mining,Australia,2035,119.6952107499
+Lithium,Mining,Australia,2040,100.9552285044
+Lithium,Chemicals,China,2024,169.67759096410308
+Lithium,Chemicals,China,2030,277.0744111599999
+Lithium,Chemicals,China,2035,281.8543111599999
+Lithium,Chemicals,China,2040,281.8543111599999
+Lithium,Mining,China,2024,56.857756170999984
+Lithium,Mining,China,2030,133.8324926705192
+Lithium,Mining,China,2035,125.37493751651918
+Lithium,Mining,China,2040,125.37493751651918
+Lithium,Chemicals,Chile,2024,49.274236
+Lithium,Chemicals,Chile,2030,58.02349279999999
+Lithium,Chemicals,Chile,2035,59.9974928
+Lithium,Chemicals,Chile,2040,60.2606928
+Lithium,Mining,Chile,2024,49.274236
+Lithium,Mining,Chile,2030,58.02349279999999
+Lithium,Mining,Chile,2035,59.9974928
+Lithium,Mining,Chile,2040,60.2606928
+Lithium,Chemicals,Argentina,2024,13.177014
+Lithium,Chemicals,Argentina,2030,48.97007362
+Lithium,Chemicals,Argentina,2035,50.60658448000001
+Lithium,Chemicals,Argentina,2040,50.60658448000001
+Lithium,Mining,Argentina,2024,13.177014
+Lithium,Mining,Argentina,2030,48.97007362
+Lithium,Mining,Argentina,2035,50.60658448000001
+Lithium,Mining,Argentina,2040,50.60658448000001
+Lithium,Chemicals,Australia,2024,4.33321568627451
+Lithium,Chemicals,Australia,2030,24.388488
+Lithium,Chemicals,Australia,2035,25.577776
+Lithium,Chemicals,Australia,2040,25.577776
+Lithium,Mining,Zimbabwe,2024,23.09980487
+Lithium,Mining,Zimbabwe,2030,32.836989168
+Lithium,Mining,Zimbabwe,2035,25.55627932800001
+Lithium,Mining,Zimbabwe,2040,25.55627932800001
+Lithium,Mining,Rest of world,2024,23.069690146400006
+Lithium,Mining,Rest of world,2030,73.93941477758233
+Lithium,Mining,Rest of world,2035,67.62506892958231
+Lithium,Mining,Rest of world,2040,55.03780194250078
+Lithium,Chemicals,Rest of world,2024,5.149696000000034
+Lithium,Chemicals,Rest of world,2030,41.69815560000012
+Lithium,Chemicals,Rest of world,2035,43.159987200000046
+Lithium,Chemicals,Rest of world,2040,43.159987200000046
+Nickel,Mining,Indonesia,2024,2463
+Nickel,Mining,Indonesia,2030,3042.0655172413794
+Nickel,Mining,Indonesia,2035,3225.36551724138
+Nickel,Mining,Indonesia,2040,3342.9655172413795
+Nickel,Refining,Indonesia,2024,1493.2
+Nickel,Refining,Indonesia,2030,2037.05
+Nickel,Refining,Indonesia,2035,2045.3
+Nickel,Refining,Indonesia,2040,2045.3
+Nickel,Mining,Philippines,2024,345
+Nickel,Mining,Philippines,2030,268
+Nickel,Mining,Philippines,2035,268
+Nickel,Mining,Philippines,2040,268
+Nickel,Refining,China,2024,1091.0770000000002
+Nickel,Refining,China,2030,1480.488
+Nickel,Refining,China,2035,1480.488
+Nickel,Refining,China,2040,1480.488
+Nickel,Mining,New Caledonia,2024,116
+Nickel,Mining,New Caledonia,2030,212
+Nickel,Mining,New Caledonia,2035,212
+Nickel,Mining,New Caledonia,2040,212
+Nickel,Refining,Finland,2024,62
+Nickel,Refining,Finland,2030,86
+Nickel,Refining,Finland,2035,86
+Nickel,Refining,Finland,2040,86
+Nickel,Mining,Russia,2024,190
+Nickel,Mining,Russia,2030,220
+Nickel,Mining,Russia,2035,220
+Nickel,Mining,Russia,2040,220
+Nickel,Refining,Australia,2024,80
+Nickel,Refining,Australia,2030,37
+Nickel,Refining,Australia,2035,37
+Nickel,Refining,Australia,2040,37
+Nickel,Mining,Canada,2024,118
+Nickel,Mining,Canada,2030,147
+Nickel,Mining,Canada,2035,92
+Nickel,Mining,Canada,2040,52
+Nickel,Refining,Russia,2024,126
+Nickel,Refining,Russia,2030,142.3
+Nickel,Refining,Russia,2035,142.3
+Nickel,Refining,Russia,2040,142.3
+Nickel,Mining,Australia,2024,100
+Nickel,Mining,Australia,2030,40
+Nickel,Mining,Australia,2035,40
+Nickel,Mining,Australia,2040,40
+Nickel,Refining,Canada,2024,113.1
+Nickel,Refining,Canada,2030,127.8
+Nickel,Refining,Canada,2035,84.1
+Nickel,Refining,Canada,2040,84.1
+Nickel,Mining,Rest of world,2024,629
+Nickel,Mining,Rest of world,2030,601.8000000000006
+Nickel,Mining,Rest of world,2035,452.7999999999993
+Nickel,Mining,Rest of world,2040,443.0000000000009
+Nickel,Refining,Rest of world,2024,631.4200000000001
+Nickel,Refining,Rest of world,2030,719.9699999999998
+Nickel,Refining,Rest of world,2035,636.8699999999994
+Nickel,Refining,Rest of world,2040,636.8699999999994
+Graphite,Mining (natural),China,2024,1580
+Graphite,Mining (natural),China,2030,1260.521136084379
+Graphite,Mining (natural),China,2035,1388.7449879940375
+Graphite,Mining (natural),China,2040,1435.6399622827405
+Graphite,Battery grade,China,2024,1794.824456364271
+Graphite,Battery grade,China,2030,3854.369306018856
+Graphite,Battery grade,China,2035,3810.606747357479
+Graphite,Battery grade,China,2040,3810.945518031618
+Graphite,Mining (natural),Mozambique,2024,37.9
+Graphite,Mining (natural),Mozambique,2030,209.7683688739245
+Graphite,Mining (natural),Mozambique,2035,260.82517789058863
+Graphite,Mining (natural),Mozambique,2040,289.26987104831875
+Graphite,Battery grade,Japan,2024,44.96532260435326
+Graphite,Battery grade,Japan,2030,158.60252017969003
+Graphite,Battery grade,Japan,2035,181.32054423960827
+Graphite,Battery grade,Japan,2040,186.5986587876757
+Graphite,Mining (natural),Madagascar,2024,72.98249739130435
+Graphite,Mining (natural),Madagascar,2030,238.5624606225776
+Graphite,Mining (natural),Madagascar,2035,205.13896
+Graphite,Mining (natural),Madagascar,2040,223.13896
+Graphite,Battery grade,United States,2024,1.1086758937757204
+Graphite,Battery grade,United States,2030,32.02385459210982
+Graphite,Battery grade,United States,2035,46.11812193034048
+Graphite,Battery grade,United States,2040,52.27853227255787
+Graphite,Mining (natural),Brazil,2024,68.74157694733334
+Graphite,Mining (natural),Brazil,2030,98.95434690662566
+Graphite,Mining (natural),Brazil,2035,87.75396616064887
+Graphite,Mining (natural),Brazil,2040,87.41821697578042
+Graphite,Battery grade,Canada,2024,0
+Graphite,Battery grade,Canada,2030,9.2942788906712
+Graphite,Battery grade,Canada,2035,20.71857710512005
+Graphite,Battery grade,Canada,2040,29.227457529805267
+Graphite,Mining (natural),Russia,2024,29.6
+Graphite,Mining (natural),Russia,2030,33
+Graphite,Mining (natural),Russia,2035,51
+Graphite,Mining (natural),Russia,2040,49.6
+Graphite,Battery grade,Sweden,2024,0
+Graphite,Battery grade,Sweden,2030,0.7165442852000379
+Graphite,Battery grade,Sweden,2035,3.155721922696114
+Graphite,Battery grade,Sweden,2040,3.546541682597089
+Graphite,Mining (natural),Tanzania,2024,9.059353306451612
+Graphite,Mining (natural),Tanzania,2030,32.46488331311328
+Graphite,Mining (natural),Tanzania,2035,36.78554754817787
+Graphite,Mining (natural),Tanzania,2040,38.52192560046399
+Graphite,Battery grade,Germany,2024,0
+Graphite,Battery grade,Germany,2030,43.44924916404202
+Graphite,Battery grade,Germany,2035,49.61800167103586
+Graphite,Battery grade,Germany,2040,52.10002175645168
+Graphite,Mining (natural),Rest of world,2024,58.01135330645093
+Graphite,Mining (natural),Rest of world,2030,150.1227313069403
+Graphite,Mining (natural),Rest of world,2035,170.7573300817055
+Graphite,Mining (natural),Rest of world,2040,178.5294334987766
+Graphite,Battery grade,Rest of world,2024,34.354032658313145
+Graphite,Battery grade,Rest of world,2030,372.09405443811056
+Graphite,Battery grade,Rest of world,2035,406.35748311541647
+Graphite,Battery grade,Rest of world,2040,407.46688524895853
+Magnet rare earth elements,Mining,China,2024,45.78735
+Magnet rare earth elements,Mining,China,2030,51.224637300063286
+Magnet rare earth elements,Mining,China,2035,56.83961908867783
+Magnet rare earth elements,Mining,China,2040,56.83961908867783
+Magnet rare earth elements,Refining,China,2024,73.75667016860831
+Magnet rare earth elements,Refining,China,2030,81.12665123569371
+Magnet rare earth elements,Refining,China,2035,86.4447019468462
+Magnet rare earth elements,Refining,China,2040,86.4447019468462
+Magnet rare earth elements,Mining,Myanmar,2024,12.071962643478264
+Magnet rare earth elements,Mining,Myanmar,2030,10.765721739130436
+Magnet rare earth elements,Mining,Myanmar,2035,11.038121739130435
+Magnet rare earth elements,Mining,Myanmar,2040,11.038121739130435
+Magnet rare earth elements,Refining,Malaysia,2024,3.62523562207358
+Magnet rare earth elements,Refining,Malaysia,2030,10.101170459866225
+Magnet rare earth elements,Refining,Malaysia,2035,10.101170459866225
+Magnet rare earth elements,Refining,Malaysia,2040,10.101170459866225
+Magnet rare earth elements,Mining,Australia,2024,3.23459341832022
+Magnet rare earth elements,Mining,Australia,2030,12.715114660447584
+Magnet rare earth elements,Mining,Australia,2035,14.566319453491271
+Magnet rare earth elements,Mining,Australia,2040,14.566319453491271
+Magnet rare earth elements,Refining,Australia,2024,0
+Magnet rare earth elements,Refining,Australia,2030,2.537342307692308
+Magnet rare earth elements,Refining,Australia,2035,3.309576923076923
+Magnet rare earth elements,Refining,Australia,2040,3.309576923076923
+Magnet rare earth elements,Mining,United States,2024,6.859819973384336
+Magnet rare earth elements,Mining,United States,2030,9.146426631179114
+Magnet rare earth elements,Mining,United States,2035,9.146426631179114
+Magnet rare earth elements,Mining,United States,2040,9.146426631179114
+Magnet rare earth elements,Refining,United States,2024,0.96135
+Magnet rare earth elements,Refining,United States,2030,7.130550000000001
+Magnet rare earth elements,Refining,United States,2035,8.859025
+Magnet rare earth elements,Refining,United States,2040,8.859025
+Magnet rare earth elements,Mining,Rest of world,2024,7.145064290360992
+Magnet rare earth elements,Mining,Rest of world,2030,16.45062221173015
+Magnet rare earth elements,Mining,Rest of world,2035,17.08662221173013
+Magnet rare earth elements,Mining,Rest of world,2040,17.08662221173013
+Magnet rare earth elements,Refining,Rest of world,2024,2.4618712374581975
+Magnet rare earth elements,Refining,Rest of world,2030,5.786269314381272
+Magnet rare earth elements,Refining,Rest of world,2035,5.786269314381258
+Magnet rare earth elements,Refining,Rest of world,2040,5.786269314381258

@@ -1,0 +1,50 @@
+{
+  "chart": {
+    "title": "Lithium production",
+    "subtitle": "Lithium production is measured in tonnes.",
+    "citation": "Energy Institute - Statistical Review of World Energy (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/lithium-production?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "Papua New Guinea",
+      "World",
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Chile",
+      "Cuba",
+      "Democratic Republic of Congo",
+      "Madagascar",
+      "Morocco",
+      "Zimbabwe",
+      "Zambia",
+      "United States",
+      "South Africa",
+      "Russia",
+      "Portugal",
+      "Philippines",
+      "New Caledonia"
+    ]
+  },
+  "columns": {
+    "Lithium production - kt": {
+      "titleShort": "Lithium production",
+      "titleLong": "Lithium production",
+      "shortUnit": "kt",
+      "unit": "thousand tonnes",
+      "timespan": "1995-2024",
+      "type": "Numeric",
+      "conversionFactor": 1000,
+      "owidVariableId": 1077593,
+      "shortName": "lithium_production_kt",
+      "lastUpdated": "2025-06-27",
+      "nextUpdate": "2026-06-27",
+      "citationShort": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data",
+      "citationLong": "Energy Institute - Statistical Review of World Energy (2025) – with major processing by Our World in Data. “Lithium production” [dataset]. Energy Institute, “Statistical Review of World Energy” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1077593.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-06-23",
+  "activeFilters": {}
+}

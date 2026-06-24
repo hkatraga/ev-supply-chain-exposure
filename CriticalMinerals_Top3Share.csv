@@ -1,0 +1,49 @@
+Mineral,Stage,Year,Top3SharePct
+Copper,Mining,2024,48.18
+Copper,Refining,2024,57.17
+Copper,Mining,2030,47.41
+Copper,Refining,2030,56.94
+Copper,Mining,2035,48.04
+Copper,Refining,2035,58.81
+Copper,Mining,2040,50.49
+Copper,Refining,2040,59.71
+Cobalt,Mining,2024,81.0
+Cobalt,Refining,2024,88.71
+Cobalt,Mining,2030,82.95
+Cobalt,Refining,2030,86.69
+Cobalt,Mining,2035,82.64
+Cobalt,Refining,2035,85.42
+Cobalt,Mining,2040,81.57
+Cobalt,Refining,2040,85.52
+Lithium,Mining,2024,76.77
+Lithium,Chemicals,2024,96.08
+Lithium,Mining,2030,66.95
+Lithium,Chemicals,2030,85.32
+Lithium,Mining,2035,67.97
+Lithium,Chemicals,2035,85.1
+Lithium,Mining,2040,68.6
+Lithium,Chemicals,2040,85.1
+Nickel,Mining,2024,77.65
+Nickel,Refining,2024,77.8
+Nickel,Mining,2030,78.61
+Nickel,Refining,2030,81.28
+Nickel,Mining,2035,83.07
+Nickel,Refining,2035,82.84
+Nickel,Mining,2040,84.42
+Nickel,Refining,2040,82.84
+Graphite,Mining (natural),2024,93.21
+Graphite,Battery grade,2024,98.17
+Graphite,Mining (natural),2030,85.83
+Graphite,Battery grade,2030,91.37
+Graphite,Mining (natural),2035,85.7
+Graphite,Battery grade,2035,90.37
+Graphite,Mining (natural),2040,86.06
+Graphite,Battery grade,2040,90.2
+Magnet rare earth elements,Mining,2024,86.18
+Magnet rare earth elements,Refining,2024,96.95
+Magnet rare earth elements,Mining,2030,74.48
+Magnet rare earth elements,Refining,2030,92.2
+Magnet rare earth elements,Mining,2035,75.86
+Magnet rare earth elements,Refining,2035,92.06
+Magnet rare earth elements,Mining,2040,75.86
+Magnet rare earth elements,Refining,2040,92.06
